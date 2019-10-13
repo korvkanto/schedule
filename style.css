@@ -1,0 +1,14 @@
+h1{
+  font-family: cursive;
+  text-align: center;
+  color: red;
+}
+html{
+background-image: url('blue.png');
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size: cover;
+
+
+}

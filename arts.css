@@ -1,0 +1,49 @@
+h1{
+  margin-top: 0px;
+  padding: 50px;
+  font-size: 100px;
+  text-align: center;
+  background-image: url('pattern.jpeg');
+  color: Khaki;
+}
+html{
+  background-image: url("hotel-wallpaper.png");
+}
+.brushes{
+  font-family: helvetica;
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+  background-color: mediumspringgreen;
+}
+.hacksaw{
+  font-weight: bold;
+  font-family: helvetica;
+}
+em{
+  font-weight: bold;
+  color: blue;
+  font-style: normal;
+}
+.frames{
+  font-family: helvetica;
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+  background-color: lightcoral;
+}
+.frame{
+  font-weight: bold;
+  font-family: helvetica;
+}
+.paint{
+  font-family: helvetica;
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+  background-color: skyblue;
+}
+.clean{
+  font-weight: bold;
+  font-family: helvetica;
+}
